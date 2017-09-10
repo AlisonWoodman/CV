@@ -2,9 +2,9 @@
 
 Learning to code at Makers Academy, a 16-week intensive dev bootcamp in London. Before I started coding I managed a charitable trust with a £2M annual turnover for the Centre for Effective Altruism, a Y Combinator backed non-profit applying science and evidence to improve the world. I look forward to leveraging my skills in a fast-paced, collaborative environment where I can continue to rapidly improve as a developer.
 
-[Skills](##skills) | [Projects](##projects) | [Education](##education) | [Experience](##experience)| [Hobbies](##hobbies)
-
-## Skills
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience)| [Hobbies](#hobbies)
+***
+## <a name="skills">Skills</a>
 
 #### Ability and desire to learn
 
@@ -21,8 +21,8 @@ As Director of Community was in charge of a group of 2000 'members'. Acted as po
 #### Teamwork
 
 Enjoy working in teams towards shared goals. Joined a conference team as the Speaker Liaison for Effective Altruism Global San Francisco 2016, a conference attended by 1000 guests and 100 speakers. Worked to a strict deadline managing a group of 12 volunteers and regularly checked in with the team to ensure a successful event.
-
-## Projects
+***
+## <a name="projects">Projects</a>
 
 |  Project |  Description | Technologies | Testing | Online version |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ Enjoy working in teams towards shared goals. Joined a conference team as the Spe
 | [Week 6: Allstaas-bnb](https://github.com/tobold/allstaas-bnb) | Week-long group project to build a simple version of Airbnb | Node, Express, Postgres, Sequelize, Bootstrap CSS | Zombie, Mocha, Chai | N/A |
 
 Full list available on my [github profile](https://github.com/AlisonWoodman).
-
-## Education
+***
+## <a name="education">Education</a>
 
 #### Makers Academy (June 2017 to September 2017)
 
@@ -50,15 +50,15 @@ Full list available on my [github profile](https://github.com/AlisonWoodman).
 * A Levels – 3A*s: Biology, History, Music
 * AS Levels – 6As: including Maths and Chemistry
 * Held top academic and music scholarships
-
-## Experience
+***
+## <a name="experience">Experience</a>
 
 **Centre for Effective Altruism** (April 2015 to May 2017)    
 *Director of Community*  
 **Giving What We Can Trust** (April 2015 to May 2017)   
 *Manager*  
-
-## Hobbies
+***
+## <a name="hobbies">Hobbies</a>
 
 * Music - love going to concerts and festivals and performing whenever possible.
 * Developing circus skills, in particular [aerial dance](https://youtu.be/U5muRaSL53Y)
