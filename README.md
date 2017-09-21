@@ -1,6 +1,6 @@
 ## Alison Woodman
 
-I've been learning to code at Makers Academy, a 16-week intensive dev bootcamp in London. Before I started coding I managed a charitable trust with a £2M annual turnover for the Centre for Effective Altruism, a Y Combinator backed non-profit applying science and evidence to improve the world. I look forward to leveraging my skills in a fast-paced, collaborative environment where I can continue to rapidly improve as a developer.
+I've spent the past 16-weeks learning to code at Makers Academy, a highly selective and intensive dev bootcamp in London. Before this I managed a charitable trust with a £2M annual turnover for the Centre for Effective Altruism, a Y Combinator backed non-profit who apply science and evidence to improve the world. Noticing the value of technical skills in my role there, I decided to take on a new challenge and learn to code. I look forward to leveraging my skills in a fast-paced, collaborative environment where I can continue to rapidly improve as a developer.
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 ***
@@ -8,11 +8,11 @@ I've been learning to code at Makers Academy, a 16-week intensive dev bootcamp i
 
 #### Ability and desire to learn
 
-I have an inquisitive mindset and am proactive about learning new things. I self-taught Maths AS in school, achieving an A. 12 weeks at Makers Academy has been an exciting experience involving building a completely new set of skills. I actively sought out challenges such as learning Node.js to build an Airbnb clone in a week.
+I have an inquisitive mindset and am proactive about learning new things. I self-taught Maths AS in school, achieving an A. 12 weeks at Makers Academy has been an exciting experience involving building a completely new set of skills. I actively sought out challenges such as learning Node.js to build an Airbnb clone in a week, and making an AR mobile game using Unity and C# as my final project.
 
 #### Self-reliance
 
-I'm capable of assuming responsibility and working independently on novel problems. Within the first two months at my previous organisation I was entrusted with managing a Charitable Trust. For two and a half years I was responsible for all aspects of running it, from compliance to financial oversight to donor and beneficiary communications. In this time the Trust disbursed over £4M to effective charities.
+I'm capable of assuming responsibility and working independently on novel problems. Within the first two months at my previous organisation I was entrusted with managing a charitable trust. For two and a half years I was responsible for all aspects of running it, from compliance to financial oversight to donor and beneficiary communications. In this time the Trust disbursed over £4M to effective charities.
 
 #### Communication
 
@@ -27,19 +27,19 @@ I enjoy working in a group toward a shared goal. I joined a conference team as t
 |  Project |  Description | Technologies | Testing | Online version |
 |---|---|---|---|---|
 | [Week 4: Chitter](https://github.com/AlisonWoodman/chitter-challenge) | Independent weekend project to build a lightweight Twitter clone | Ruby, Sinatra, Postgres, DataMapper, HTML5(ERB), CSS | RSpec, Capybara  | https://lets-chitter.herokuapp.com |
-| [Week 6: Allstaas-bnb](https://github.com/tobold/allstaas-bnb) | Week-long group project to build a simple version of Airbnb | Node, Express, Postgres, Sequelize, Bootstrap CSS | Zombie, Mocha, Chai | N/A |
+| [Week 6: Allstaas-bnb](https://github.com/tobold/allstaas-bnb) | Week-long group project to create a simple version of Airbnb | Node, Express, Postgres, Sequelize, Bootstrap CSS | Zombie, Mocha, Chai | N/A |
+| [Weeks 10-12: Unorthoducks](https://github.com/tobold/allstaas-bnb) | Two-week group project to make a mobile AR Zombie duck defence game | C#, Unity, Vuforia | Unity TestRunner with NUnit | N/A |
 
-You can find a full list of projects on my [github profile](https://github.com/AlisonWoodman).
+You can find a full list of projects on my [github profile](https://github.com/tobold/unorthoducks).
 ***
 ## <a name="education">Education</a>
 
 #### Makers Academy (June 2017 to September 2017)
 
-* OOP, TDD, SOLID, MVC, DDD
-* Pair programming
+* Pair programming with independent weekend project work
 * Awareness of agile practices and XP values
-* Software Craftsmanship
-* Ruby, Rails, Javascript, Node.js
+* Software development best practices including TDD, delegation, encapsulation, DDD
+* Ruby, Rails, Javascript, Node.js, Unity, C#
 * Rspec, Capybara, Jasmine, Zombie, Mocha, Chai
 
 #### University of Cambridge (October 2011 to June 2014)
@@ -62,6 +62,6 @@ You can find a full list of projects on my [github profile](https://github.com/A
 ***
 ## <a name="hobbies">Hobbies</a>
 
-* Music - I love going to concerts and festivals and performing whenever possible
-* Learning circus skills, in particular [aerial dance](https://youtu.be/U5muRaSL53Y)
-* I recently got a camera and am enjoying [taking photos](https://www.flickr.com/people/155310715@N05/)
+* Music - I love going to concerts and festivals and performing when I can
+* Photography - I recently got a camera and am enjoying [taking photos](https://www.flickr.com/people/155310715@N05/)
+* Circus - I've been learning circus skills since University, in particular [aerial dance](https://youtu.be/U5muRaSL53Y)
