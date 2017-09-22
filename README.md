@@ -28,9 +28,9 @@ I enjoy working in a group toward a shared goal. I joined a conference team as t
 |---|---|---|---|---|
 | [Week 4: Chitter](https://github.com/AlisonWoodman/chitter-challenge) | Independent weekend project to build a lightweight Twitter clone | Ruby, Sinatra, Postgres, DataMapper, HTML5(ERB), CSS | RSpec, Capybara  | https://lets-chitter.herokuapp.com |
 | [Week 6: Allstaas-bnb](https://github.com/tobold/allstaas-bnb) | Week-long group project to create a simple version of Airbnb | Node, Express, Postgres, Sequelize, Bootstrap CSS | Zombie, Mocha, Chai | N/A |
-| [Weeks 10-12: Unorthoducks](https://github.com/tobold/allstaas-bnb) | Two-week group project to make a mobile AR Zombie duck defence game | C#, Unity, Vuforia | Unity TestRunner with NUnit | N/A |
+| [Weeks 10-12: Unorthoducks](https://github.com/tobold/unorthoducks) | Two-week group project to make a mobile AR Zombie duck defence game | C#, Unity, Vuforia | Unity Test Runner with NUnit | N/A |
 
-You can find a full list of projects on my [github profile](https://github.com/tobold/unorthoducks).
+You can find a full list of projects on my [github profile](https://github.com/AlisonWoodman).
 ***
 ## <a name="education">Education</a>
 
