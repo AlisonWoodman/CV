@@ -8,7 +8,7 @@ I've spent the past 16-weeks learning to code at Makers Academy, a highly select
 
 #### Ability and desire to learn
 
-I have an inquisitive mindset and am proactive about learning new things. I self-taught Maths AS in school, achieving an A. 12 weeks at Makers Academy has been an exciting experience involving building a completely new set of skills. I actively sought out challenges such as learning Node.js to build an Airbnb clone in a week, and making an AR mobile game using Unity and C# as my final project.
+I have an inquisitive mindset and am proactive about learning new things. I self-taught Maths AS in school, achieving an A. 16 weeks at Makers Academy has been an exciting experience involving building a completely new set of skills. I actively sought out challenges such as learning Node.js to build an Airbnb clone in a week, and making an AR mobile game using Unity and C# as my final project.
 
 #### Self-reliance
 
