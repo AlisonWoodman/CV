@@ -1,6 +1,6 @@
 ## Alison Woodman
 
-I've spent the past 16-weeks learning to code at Makers Academy, a highly selective and intensive dev bootcamp in London. Before this I managed a charitable trust with a £2M annual turnover for the Centre for Effective Altruism, a Y Combinator backed non-profit who apply science and evidence to improve the world. Noticing the value of technical skills in my role there, I decided to take on a new challenge and learn to code. I look forward to leveraging my skills in a fast-paced, collaborative environment where I can continue to rapidly improve as a developer.
+I've spent the past 16-weeks learning to code at Makers Academy, a highly selective and intensive dev bootcamp in London. Before this I managed a charitable trust with a £2M annual turnover for the Centre for Effective Altruism, a Y Combinator backed non-profit who apply science and evidence to improve the world. Noticing the value of technical skills in my role there, I decided to take on a new challenge and learn to code. I'm now looking for my first role as a full stack developer in an environment where I will continually be challenged and rapidly improve my skills in this area.
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 ***
@@ -20,7 +20,7 @@ As Director of Community I was in charge of a group of 2000 members of the chari
 
 #### Teamwork
 
-I enjoy working in a group toward a shared goal. I joined a conference team as the Speaker Liaison for Effective Altruism Global San Francisco 2016, a conference attended by 1000 guests and 100 speakers. I worked in an intensive environment to a strict deadline managing a group of 12 volunteers and regularly checked in with the team to ensure a successful event.
+I enjoy working in a group toward a shared goal. I joined a conference team as the Speaker Liaison for Effective Altruism Global San Francisco 2016, a conference attended by 1000 guests and 100 speakers. I worked in an intensive environment to a strict deadline managing a group of 12 volunteers and regularly checked in with the team to ensure a successful event. I've enjoyed taking part in four group projects at Makers where we employed agile practices to iterate towards our goals.
 ***
 ## <a name="projects">Projects</a>
 
@@ -39,7 +39,7 @@ You can find a full list of projects on my [github profile](https://github.com/A
 * Pair programming with independent weekend project work
 * Awareness of agile practices and XP values
 * Software development best practices including TDD, delegation, encapsulation, DDD
-* Ruby, Rails, Javascript, Node.js, Unity, C#
+* Ruby, Rails, JavaScript, Node.js, Unity, C#
 * Rspec, Capybara, Jasmine, Zombie, Mocha, Chai
 
 #### University of Cambridge (October 2011 to June 2014)
